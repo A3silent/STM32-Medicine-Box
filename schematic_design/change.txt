@@ -1,0 +1,9 @@
+version: 1 fundemental circuit desgin that has not been implemented
+
+version: 2 revised circuit design that follows the pin rule of stm32f401re board
+
+version: 3 changed the lcd screen to a 4 pin version and revised button pinout
+
+version 4: changed button circut to make sure it works
+
+version 5: delete one servo motor to make enough space to put all the electronic devices inside
