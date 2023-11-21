@@ -1,0 +1,7 @@
+version: 1 orginal version of design document
+
+version: 2 follows TA's instruction and revised design document
+
+version: 3 further change of update revised image of mechanical design, circuit design, etc.
+
+version: 4 user manual revised
