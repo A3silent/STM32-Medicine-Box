@@ -1,0 +1,1 @@
+This change mainly focus on the accessbility of the program and optimize the algorithm during running to elimiate bugs and increase operation speed
