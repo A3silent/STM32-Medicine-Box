@@ -1,0 +1,4 @@
+version: 1 fundemental design of the outer shield of the box and the servo motor
+
+version: 2 revised design of the outer shield that delete the useless part on the right
+	The cover is connected to the servo motor.
