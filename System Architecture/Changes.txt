@@ -1,0 +1,7 @@
+version: 1 basic architecture of the medicine box
+
+version: 2 add change time function and add pill function
+
+version: 3 add chose box function and revised control (make simpler)
+
+version: 4 delete choose box function since we removed one box, create reset timer function
